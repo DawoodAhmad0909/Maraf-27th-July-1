@@ -3,7 +3,7 @@
 
 The MD27thJ1_db database is a structured relational database designed to manage academic, demographic, and administrative data for schools in Qatar. It provides a centralized model for storing and analyzing information about schools, students, teachers, subjects, classes, enrollments, grades, and attendance.
 
-## Key Tables and Their Roles:
+### Key Tables and Their Roles:
 
 1. schools
 Stores basic information about schools including their name, location, education level, and gender type (Boys, Girls, Mixed).
@@ -29,7 +29,7 @@ Records performance data for students per subject, term, and academic year, incl
 8. attendance
 Tracks student attendance status (Present, Absent, Late) for each date and class.
 
-## Insights Enabled by the Database:
+### Insights Enabled by the Database:
 
 1. Demographic Analysis:Reports like the percentage of non-Qatari students per school help measure diversity.
 
