@@ -1,0 +1,4 @@
+grade_level,qatari_students,non_qatari_students,qatari_attendance_rate,non_qatari_attendance_rate,attendance_rate_difference
+4,1,0,0.00,NULL,NULL
+7,2,0,50.00,NULL,NULL
+10,1,0,100.00,NULL,NULL
